@@ -17,4 +17,4 @@ https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?u
 https://github.com/dimitridittrich/github-readme-stats
 -->
 
-[![Top Langs](https://www.linkedin.com/in/dimitridittrich/)]([https://www.linkedin.com/in/dimitridittrich/](https://www.linkedin.com/in/dimitridittrich/))
+[![Top Langs]([https://www.linkedin.com/in/dimitridittrich/](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich))]([https://www.linkedin.com/in/dimitridittrich/](https://www.linkedin.com/in/dimitridittrich/))
