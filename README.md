@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich)](https://www.linkedin.com/in/dimitridittrich/)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich&theme=dracula)](https://www.linkedin.com/in/dimitridittrich/)
