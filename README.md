@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich&theme=dracula)](https://www.linkedin.com/in/dimitridittrich/)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich&theme=dracula)](https://www.linkedin.com/in/dimitridittrich/) [![Top Langs](https://github-readme-stats.vercel.app/api?username=dimitridittrich&theme=algolia&show_icons=true)](https://github.com/dimitridittrich)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitridittrich&hide=javascript,css,scss,html&theme=tokyonight)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=dimitridittrich&theme=algolia&show_icons=true)](https://github.com/dimitridittrich)
