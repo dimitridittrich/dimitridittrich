@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich
 https://github.com/dimitridittrich/github-readme-stats
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimitridittrich)]([https://www.linkedin.com/in/dimitridittrich/](https://www.linkedin.com/in/dimitridittrich/))
+[![Top Langs](https://www.linkedin.com/in/dimitridittrich/)]([https://www.linkedin.com/in/dimitridittrich/](https://www.linkedin.com/in/dimitridittrich/))
