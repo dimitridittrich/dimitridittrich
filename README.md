@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 &theme=dracula
 
--->
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dimitridittrich/">
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
+-->
